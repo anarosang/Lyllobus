@@ -1,0 +1,1861 @@
+[0403/163355.816:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163400.828:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163405.849:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163410.862:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163415.873:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163420.881:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163425.887:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163455.742:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/163500.755:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0403/165232.417:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/165232.424:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/175418.624:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/175418.632:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/180312.756:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/180312.763:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/180851.218:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/180851.225:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/184459.926:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/184459.947:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/184641.780:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/184641.790:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185230.468:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185230.475:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185656.427:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185656.435:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185748.163:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/185748.163:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/185748.164:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/185748.164:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/185749.338:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/185749.345:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191421.574:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/191421.574:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/191421.575:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/191421.576:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/191422.544:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191422.551:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191635.941:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 1
+[0403/191635.998:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 43
+[0403/191636.003:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 41
+[0403/191636.004:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 39
+[0403/191636.005:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 37
+[0403/191636.014:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 35
+[0403/191636.067:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 33
+[0403/191636.068:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 31
+[0403/191636.073:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 29
+[0403/191636.076:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 27
+[0403/191636.086:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 17
+[0403/191636.088:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 15
+[0403/191636.090:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 13
+[0403/191703.402:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191703.409:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191727.563:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/191727.569:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193316.614:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193316.621:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193659.983:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193659.990:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193757.530:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/193757.530:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/193757.530:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/193757.531:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/193758.507:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193758.514:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/193803.864:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000013618E9E510]RENDER WARNING: there is no texture bound to the unit 0
+[0403/193803.866:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000013618E9E510]RENDER WARNING: there is no texture bound to the unit 0
+[0403/193804.006:INFO:CONSOLE(0)] "[.WebGL-0000013618E9E510]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/@38.8055785,-9.1570508,15z (0)
+[0403/193804.006:INFO:CONSOLE(0)] "[.WebGL-0000013618E9E510]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/@38.8055785,-9.1570508,15z (0)
+[0403/193819.044:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 257
+[0403/194556.851:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194556.856:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194701.209:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194701.217:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194754.346:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194754.353:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194910.640:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/194910.645:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/195311.816:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/195311.827:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/195658.416:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 25
+[0403/195658.423:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 23
+[0403/195658.542:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 21
+[0403/195658.543:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 19
+[0403/195658.553:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 17
+[0403/195658.555:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 15
+[0403/195658.564:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 13
+[0403/195658.582:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 11
+[0403/200158.600:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200158.607:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200422.856:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200422.863:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200546.638:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/200546.639:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/200546.639:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/200546.639:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/200547.618:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200547.625:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200756.922:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200756.929:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200923.938:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/200923.946:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201059.191:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201059.198:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201143.449:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201143.457:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201311.670:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201311.672:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201311.672:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201311.673:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201312.833:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201312.840:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201316.767:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 229
+[0403/201338.734:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201338.735:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201338.735:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201338.735:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/201339.723:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/201339.730:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/202115.426:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/202115.437:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/202526.743:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/202526.744:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/202526.744:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/202526.744:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0403/202527.843:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/202527.850:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/202643.853:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 443
+[0403/203559.161:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/203559.168:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/204001.381:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/204001.388:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/204925.084:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/204925.092:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/205105.697:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0403/205105.706:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/184950.714:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/184950.720:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/224645.988:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/224645.995:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/224823.632:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/224823.640:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225143.996:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225144.005:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225330.367:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225330.375:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225627.457:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225627.465:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225720.023:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225720.030:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225927.380:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0409/225927.381:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0409/225927.381:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0409/225927.381:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0409/225928.283:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/225928.290:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/230527.795:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/230527.802:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/231842.084:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/231842.091:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/232539.605:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/232539.612:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/232843.849:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/232843.856:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/233038.921:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/233038.930:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/234559.303:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0409/234559.310:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/191209.575:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/191209.583:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/191406.635:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/191406.643:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/195558.669:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/195558.681:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/195916.672:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/195916.689:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/195916.689:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/195916.689:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/195917.772:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/195917.783:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200016.973:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200016.981:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200126.143:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200126.152:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200632.614:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/200632.621:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201231.450:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201231.457:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201300.715:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201300.722:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201837.955:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/201837.962:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202030.470:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202030.478:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202131.179:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202131.186:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202351.938:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202351.945:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202738.969:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202738.969:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202738.969:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202738.970:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202739.936:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202739.944:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202800.759:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202800.759:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202800.759:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202800.759:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/202801.638:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/202801.645:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/203102.049:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/203102.056:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/203414.577:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/203414.584:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/225654.508:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/225654.515:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/232221.144:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/232221.152:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/232337.558:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/232337.558:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/232337.558:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/232337.558:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0410/232338.674:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0410/232338.687:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140320.760:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140320.768:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140507.332:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140507.340:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140748.131:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140748.148:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140840.806:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/140840.813:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/141007.731:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/141007.739:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/141929.377:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/141929.385:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/142957.075:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/142957.082:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/143201.380:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/143201.391:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/143441.686:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/143441.695:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/162500.380:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/162500.410:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/162500.410:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/162500.410:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/162501.374:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/162501.382:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185337.242:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185337.249:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185403.135:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/185403.136:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/185403.136:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/185403.136:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/185403.860:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185403.867:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185719.293:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/185719.301:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/190359.152:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/190359.162:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191006.116:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191006.123:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191743.209:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191743.216:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191937.190:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/191937.197:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192017.307:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192017.314:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192128.647:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192128.655:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192418.831:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192418.839:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192452.597:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/192452.604:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/200441.575:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/200441.582:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/200612.232:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/200612.242:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202331.339:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202331.346:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202429.223:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/202429.224:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/202429.225:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/202429.228:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/202430.270:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202430.277:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202526.523:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202526.531:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202614.079:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202614.087:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202823.028:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/202823.036:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203247.310:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203247.318:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203540.363:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203540.372:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203802.490:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203802.497:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203828.382:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/203828.389:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204015.598:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204015.616:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204250.494:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204250.502:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204945.206:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/204945.215:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205020.287:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205020.295:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205114.841:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205114.849:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205412.527:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205412.534:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205604.465:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205604.473:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205849.648:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205849.656:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205941.097:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/205941.104:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/210008.789:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/210008.797:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/210059.605:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/210059.605:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/210059.605:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/210059.605:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0411/210100.676:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/210100.683:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/222704.427:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/222704.434:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/223137.861:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/223137.870:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224029.661:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224029.670:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224150.171:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224150.179:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224329.122:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/224329.130:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/225805.480:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0411/225805.488:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/123247.265:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/123247.272:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/123251.262:ERROR:ssl_client_socket_impl.cc(964)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0413/123252.816:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 189
+[0413/123252.837:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 191
+[0413/123252.854:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 193
+[0413/123252.855:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 195
+[0413/123307.706:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 5
+[0413/123752.384:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/123752.401:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/124023.233:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/124023.241:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/124727.481:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/124727.495:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/125443.382:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/125443.390:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130256.150:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130256.157:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130343.752:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130343.759:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130657.900:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130657.908:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130903.977:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/130903.985:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/131707.086:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/131707.114:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/131808.306:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/131808.314:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/132849.159:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/132849.166:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/133034.623:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/133034.630:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134349.132:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134349.141:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134520.172:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/134520.172:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/134520.172:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/134520.173:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/134522.252:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134522.261:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134527.920:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 241
+[0413/134531.529:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/134531.531:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/134531.531:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/134531.531:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/134849.897:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134849.905:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134931.015:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/134931.024:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/135141.100:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/135141.100:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/135141.101:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/135141.101:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/135142.633:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/135142.644:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/135155.728:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/135155.729:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/135155.729:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/135155.729:INFO:CONSOLE(558)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/dir/?api=1&origin=38.8055785,+-9.1570508&destination=38.7542833,+-9.1871717&travelmode=driving (558)
+[0413/140205.573:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/140205.579:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/140850.624:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/140850.633:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/140856.050:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 11
+[0413/140856.053:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 5
+[0413/140856.054:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 7
+[0413/140856.064:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 11
+[0413/140856.064:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 9
+[0413/140856.091:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 223
+[0413/142237.349:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 51
+[0413/142237.556:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 53
+[0413/142237.580:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 55
+[0413/142237.580:WARNING:spdy_session.cc(3178)] Received HEADERS for invalid stream 57
+[0413/142250.314:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/142250.321:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/184755.224:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/184755.231:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/184914.858:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/184914.866:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185022.383:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185022.390:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185108.909:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185108.916:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185156.898:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185156.906:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185325.297:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185325.304:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185513.079:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185513.086:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185557.692:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185557.699:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185952.271:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/185952.278:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190056.838:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190056.845:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190137.589:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190137.596:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190246.281:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/190246.282:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/190246.282:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/190246.282:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0413/190247.244:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190247.252:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190319.251:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190319.259:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190949.686:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/190949.693:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/191436.146:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/191436.153:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/200136.313:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/200136.320:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/200827.016:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0413/200827.023:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/114147.396:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/114147.404:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/115207.748:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/115207.755:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/115552.692:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/115552.700:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120114.369:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120114.376:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120434.604:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120434.611:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120545.329:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120545.337:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120606.519:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000013DF5A60D80]RENDER WARNING: there is no texture bound to the unit 0
+[0414/120606.550:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000013DF5A60D80]RENDER WARNING: there is no texture bound to the unit 0
+[0414/120606.694:INFO:CONSOLE(0)] "[.WebGL-0000013DF5A60D80]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/dir/ALDI,+Flamenga+PT,+R.+Alm.+Gago+Coutinho+102,+2660-038+Loures/Centro+Comercial+Colombo,+Avenida+Lus%C3%ADada,+Lisboa/@38.7844722,-9.2439631,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0xd192d6fd01db6a9:0x83d7b673856f39fa!2m2!1d-9.1565973!2d38.8077942!1m5!1m1!1s0xd19332a00f06e5f:0xc67774b005d8ab1c!2m2!1d-9.1884836!2d38.754673 (0)
+[0414/120606.697:INFO:CONSOLE(0)] "[.WebGL-0000013DF5A60D80]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/dir/ALDI,+Flamenga+PT,+R.+Alm.+Gago+Coutinho+102,+2660-038+Loures/Centro+Comercial+Colombo,+Avenida+Lus%C3%ADada,+Lisboa/@38.7844722,-9.2439631,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0xd192d6fd01db6a9:0x83d7b673856f39fa!2m2!1d-9.1565973!2d38.8077942!1m5!1m1!1s0xd19332a00f06e5f:0xc67774b005d8ab1c!2m2!1d-9.1884836!2d38.754673 (0)
+[0414/120749.238:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/120749.246:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/134147.794:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/134147.801:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/134320.218:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/134320.225:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135242.399:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135242.406:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135413.048:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135413.056:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135431.898:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135431.906:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135458.301:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135458.312:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135707.511:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135707.518:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135805.655:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135805.662:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135849.908:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/135849.915:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/140535.758:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/140535.769:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141136.675:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141136.683:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141243.654:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141243.661:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141446.363:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/141446.370:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/142045.893:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/142045.900:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160158.488:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160158.496:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160233.325:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160233.332:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160557.816:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160557.823:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160727.181:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/160727.188:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/175202.366:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/175202.373:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/192119.520:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/192119.527:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/192418.557:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/192418.564:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/193014.744:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/193014.751:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/193345.766:ERROR:broker_win.cc(55)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0414/193345.766:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0414/193345.766:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0414/194510.208:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/194510.217:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/194707.995:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/194708.003:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/194755.639:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0414/194755.640:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0414/194755.640:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0414/194755.640:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0414/194756.743:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/194756.750:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/195512.868:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/195512.875:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/195920.127:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/195920.134:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/201844.864:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/201844.871:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213144.337:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213144.345:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213222.552:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213222.559:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213434.620:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213434.629:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213929.921:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/213929.933:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214003.932:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214003.939:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214043.688:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214043.695:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214112.006:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0414/214112.014:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140505.272:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140505.280:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140631.077:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140631.084:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140825.866:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140825.874:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140917.224:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/140917.232:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/183031.754:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0415/183031.762:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0417/022908.446:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0417/022908.478:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0417/022908.478:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0417/022908.479:INFO:CONSOLE(511)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (511)
+[0417/022909.380:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0417/022909.387:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0417/142926.051:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0417/142926.059:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/010303.016:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/010303.028:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/162622.902:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/162622.915:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/215144.672:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/215144.681:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/222837.249:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0419/222837.258:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/160950.182:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/160950.189:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/210657.897:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/210657.904:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/210845.544:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/210845.551:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211040.359:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211040.367:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211204.648:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211204.655:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211238.041:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211238.049:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211320.734:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211320.741:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211342.717:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211342.724:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211409.734:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/211409.741:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/231926.288:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/231926.295:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232031.438:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232031.445:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232239.863:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232239.871:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232350.246:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0420/232350.246:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0420/232350.246:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0420/232350.247:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0420/232351.102:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/232351.110:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/233353.525:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/233353.532:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/234733.172:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/234733.179:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/234908.367:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0420/234908.374:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004000.675:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0421/004000.675:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0421/004000.675:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0421/004000.676:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0421/004001.832:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004001.839:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004338.027:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004338.034:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004525.457:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004525.465:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004651.622:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/004651.630:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010500.217:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010500.224:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010625.545:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010625.553:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010740.395:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/010740.402:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/051257.705:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0421/051257.712:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/002425.421:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/002425.428:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/013324.349:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/013324.356:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/051739.802:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/051739.810:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/053816.499:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/053816.506:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/053817.861:INFO:CONSOLE(467)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.jw7XZHvcak8.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-L1iz4xVj0PCdm2On38RCj6aYemA/cb=gapi.loaded_0 (467)
+[0429/053817.862:INFO:CONSOLE(467)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.jw7XZHvcak8.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-L1iz4xVj0PCdm2On38RCj6aYemA/cb=gapi.loaded_0 (467)
+[0429/053817.862:INFO:CONSOLE(467)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.jw7XZHvcak8.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-L1iz4xVj0PCdm2On38RCj6aYemA/cb=gapi.loaded_0 (467)
+[0429/053817.862:INFO:CONSOLE(467)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.jw7XZHvcak8.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-L1iz4xVj0PCdm2On38RCj6aYemA/cb=gapi.loaded_0 (467)
+[0429/053832.038:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000020663587C60]RENDER WARNING: there is no texture bound to the unit 0
+[0429/053832.039:ERROR:gles2_cmd_decoder.cc(10366)] [.WebGL-0000020663587C60]RENDER WARNING: there is no texture bound to the unit 0
+[0429/053832.115:INFO:CONSOLE(0)] "[.WebGL-0000020663587C60]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/dir/Aeroporto+de+Lisboa/H2On+Motel,+R.+da+Fonte+2660,+Frielas/@38.7965149,-9.1873491,13z/data=!4m13!4m12!1m5!1m1!1s0xd19324616d90183:0xa66a53e58036d46!2m2!1d-9.1353667!2d38.7755936!1m5!1m1!1s0xd192d79f51c1275:0xc73e9b4b71b2de87!2m2!1d-9.1517381!2d38.8050658 (0)
+[0429/053832.115:INFO:CONSOLE(0)] "[.WebGL-0000020663587C60]RENDER WARNING: there is no texture bound to the unit 0", source: https://www.google.com/maps/dir/Aeroporto+de+Lisboa/H2On+Motel,+R.+da+Fonte+2660,+Frielas/@38.7965149,-9.1873491,13z/data=!4m13!4m12!1m5!1m1!1s0xd19324616d90183:0xa66a53e58036d46!2m2!1d-9.1353667!2d38.7755936!1m5!1m1!1s0xd192d79f51c1275:0xc73e9b4b71b2de87!2m2!1d-9.1517381!2d38.8050658 (0)
+[0429/053935.769:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/053935.777:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/054227.602:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0429/054227.609:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0502/232329.164:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0502/232329.171:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0503/081700.170:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0503/081700.171:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0503/081700.171:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0503/081700.171:INFO:CONSOLE(512)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps (512)
+[0503/081701.118:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(120,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0503/081701.126:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(212,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(213,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0503/084208.341:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
